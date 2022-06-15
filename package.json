@@ -1,0 +1,11 @@
+{
+  "name": "@inventora/keepalive",
+  "version": "0.1.0",
+  "dependencies": {},
+  "author": "Jeremy Blalock",
+  "license": "MIT",
+  "main": "lib/process-wrapper.js",
+  "bin": {
+    "keepalive": "./index.js"
+  }
+}
