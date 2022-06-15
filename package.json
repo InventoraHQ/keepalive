@@ -1,5 +1,6 @@
 {
-  "name": "@inventora/keepalive",
+  "name": "@inventorahq/keepalive",
+  "private": false,
   "version": "0.1.0",
   "dependencies": {},
   "author": "Jeremy Blalock",
